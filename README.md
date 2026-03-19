@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard.png)
+
 # 📊 Superstore Sales Analysis
 
 ## 📌 Project Objective
